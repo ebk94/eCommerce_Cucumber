@@ -1,0 +1,74 @@
+2021-06-19 20:32:52,067 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-19 20:32:56,829 - nopCommerce_Cucumber - INFO - ****** Providing credentials ******
+2021-06-19 20:33:09,872 - nopCommerce_Cucumber - INFO - ****** Login passed ******
+2021-06-19 20:33:12,918 - nopCommerce_Cucumber - INFO - ****** Adding new Customer ******
+2021-06-19 20:33:23,906 - nopCommerce_Cucumber - INFO - ****** Saved successfully ******
+2021-06-19 20:33:24,528 - nopCommerce_Cucumber - INFO - ****** Test passed ******
+2021-06-19 21:09:28,965 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-19 21:16:29,623 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-19 21:16:46,708 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-19 21:18:10,858 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-19 21:18:54,531 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-19 21:19:02,769 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-19 21:19:10,953 - nopCommerce_Cucumber - INFO - ****** Providing credentials ******
+2021-06-19 21:19:28,511 - nopCommerce_Cucumber - INFO - ****** Login passed ******
+2021-06-19 21:19:30,977 - nopCommerce_Cucumber - INFO - ****** Adding new Customer ******
+2021-06-19 21:19:42,491 - nopCommerce_Cucumber - INFO - ****** Saved successfully ******
+2021-06-19 21:19:43,181 - nopCommerce_Cucumber - INFO - ****** Test passed ******
+2021-06-19 21:24:01,080 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-19 21:26:00,674 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-19 21:26:24,402 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-19 21:26:40,432 - nopCommerce_Cucumber - INFO - ****** Providing credentials ******
+2021-06-19 21:27:37,646 - nopCommerce_Cucumber - INFO - ****** Login passed ******
+2021-06-19 21:28:31,474 - nopCommerce_Cucumber - INFO - ****** Adding new Customer ******
+2021-06-19 21:28:44,538 - nopCommerce_Cucumber - INFO - ****** Saved successfully ******
+2021-06-19 21:28:45,210 - nopCommerce_Cucumber - INFO - ****** Test passed ******
+2021-06-20 09:38:48,048 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 09:39:14,051 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 09:39:20,087 - nopCommerce_Cucumber - INFO - ****** Providing credentials ******
+2021-06-20 09:39:35,973 - nopCommerce_Cucumber - INFO - ****** Login passed ******
+2021-06-20 09:39:39,565 - nopCommerce_Cucumber - INFO - ****** Adding new Customer ******
+2021-06-20 09:39:57,533 - nopCommerce_Cucumber - INFO - ****** Saved successfully ******
+2021-06-20 09:39:59,038 - nopCommerce_Cucumber - INFO - ****** Test passed ******
+2021-06-20 09:47:33,664 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 09:47:39,490 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 09:47:51,331 - nopCommerce_Cucumber - INFO - ****** Providing credentials ******
+2021-06-20 09:48:10,367 - nopCommerce_Cucumber - INFO - ****** Login passed ******
+2021-06-20 09:48:12,601 - nopCommerce_Cucumber - INFO - ****** Adding new Customer ******
+2021-06-20 09:48:31,189 - nopCommerce_Cucumber - INFO - ****** Saved successfully ******
+2021-06-20 09:48:32,761 - nopCommerce_Cucumber - INFO - ****** Test passed ******
+2021-06-20 09:49:54,930 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 09:50:00,803 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 09:50:04,016 - nopCommerce_Cucumber - INFO - ****** Providing credentials ******
+2021-06-20 09:50:12,243 - nopCommerce_Cucumber - INFO - ****** Login passed ******
+2021-06-20 09:50:14,706 - nopCommerce_Cucumber - INFO - ****** Adding new Customer ******
+2021-06-20 09:50:25,723 - nopCommerce_Cucumber - INFO - ****** Saved successfully ******
+2021-06-20 09:50:26,386 - nopCommerce_Cucumber - INFO - ****** Test passed ******
+2021-06-20 09:50:27,844 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 09:50:29,851 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 09:50:48,345 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 09:50:50,985 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 13:34:40,642 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 13:34:53,623 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 13:35:00,751 - nopCommerce_Cucumber - INFO - ****** Providing credentials ******
+2021-06-20 13:35:15,691 - nopCommerce_Cucumber - INFO - ****** Login passed ******
+2021-06-20 13:35:18,004 - nopCommerce_Cucumber - INFO - ****** Adding new Customer ******
+2021-06-20 13:35:29,962 - nopCommerce_Cucumber - INFO - ****** Saved successfully ******
+2021-06-20 13:35:30,535 - nopCommerce_Cucumber - INFO - ****** Test passed ******
+2021-06-20 13:35:33,492 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 13:35:36,653 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 13:35:55,871 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 13:35:58,403 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 13:36:19,611 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 13:36:23,125 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 13:36:53,854 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 13:36:58,411 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 13:37:19,264 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 13:37:21,785 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 13:37:43,892 - nopCommerce_Cucumber - INFO - ****** Launching the Browser ******
+2021-06-20 13:37:45,992 - nopCommerce_Cucumber - INFO - ****** Opening URL ******
+2021-06-20 13:37:53,098 - nopCommerce_Cucumber - INFO - ****** Providing credentials ******
+2021-06-20 13:38:06,527 - nopCommerce_Cucumber - INFO - ****** Login passed ******
+2021-06-20 13:38:10,213 - nopCommerce_Cucumber - INFO - ****** Adding new Customer ******
+2021-06-20 13:38:21,961 - nopCommerce_Cucumber - INFO - ****** Saved successfully ******
+2021-06-20 13:38:22,544 - nopCommerce_Cucumber - INFO - ****** Test passed ******
